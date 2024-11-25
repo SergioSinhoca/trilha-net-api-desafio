@@ -55,4 +55,17 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Segue abaixo os sistemas utilizados para a realização deste desafio:
+
+### Tecnologias Utilizadas
+
+- **Plataforma:** .NET versão 8
+- **Sistema Operacional:** Ubuntu 24.04.1 LTS
+- **Banco de Dados:** MySQL versão 8.0.39
+
+### Demonstração
+Aqui está uma breve demonstração do sistema em funcionamento no **Swagger:**
+
+ <p align="center">
+    <img src="video.gif" width="600">
+ </p>
